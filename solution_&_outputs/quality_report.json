@@ -1,0 +1,48 @@
+{
+    "data_fetched_at_utc": "2026-05-31 06:16:04.291008",
+    "raw_record_count": 1761,
+    "clean_record_count": 1761,
+    "duplicates_removed": 0,
+    "missing_values_before": {
+        "event_id": 0,
+        "magnitude": 0,
+        "place": 0,
+        "event_time": 0,
+        "updated_time": 0,
+        "tsunami": 0,
+        "significance": 0,
+        "alert": 1697,
+        "status": 0,
+        "event_type": 0,
+        "longitude": 0,
+        "latitude": 0,
+        "depth_km": 0
+    },
+    "missing_values_after": {
+        "event_id": 0,
+        "magnitude": 0,
+        "place": 0,
+        "event_time": 0,
+        "updated_time": 0,
+        "tsunami": 0,
+        "significance": 0,
+        "alert": 0,
+        "status": 0,
+        "event_type": 0,
+        "longitude": 0,
+        "latitude": 0,
+        "depth_km": 0
+    },
+    "high_risk_events": 11,
+    "medium_risk_events": 405,
+    "low_risk_events": 1345,
+    "max_magnitude": 6.9,
+    "deepest_earthquake_km": 639.858,
+    "top_5_regions_by_event_count": {
+        "Alaska": 549,
+        "Unknown": 127,
+        "Ca": 125,
+        "Puerto Rico": 74,
+        "Indonesia": 72
+    }
+}
